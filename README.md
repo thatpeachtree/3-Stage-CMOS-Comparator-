@@ -1,6 +1,6 @@
 # 3-Stage-CMOS-Comparator
 Contains the design and simulation of a 3-stage CMOS comparator using Xschem, an open-source analog schematic editor, and Sky130 PDK. 
-<img width="1052" height="760" alt="image" src="https://github.com/user-attachments/assets/cb320f4e-5f4f-41a0-b659-56b0a5f010ea" />
+<img width="1255" height="887" alt="image" src="https://github.com/user-attachments/assets/873fe272-7c96-48fe-98a5-730b1359af65" />
 
 # Architecture
 **Pre-amplification:** Amplifies input signal; isolates input from decision circuit noise
