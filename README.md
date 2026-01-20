@@ -9,7 +9,7 @@ Contains the design and simulation of a 3-stage CMOS comparator using Xschem, an
 **Decision circuit:** Decides which differential signal is larger
 <img width="924" height="455" alt="image" src="https://github.com/user-attachments/assets/d5bd70bc-c661-49bb-8201-494ef7dd05c8" />
 
-**Output buffer:** Amplifies the signal sent by the decision circuit and ties the differential outputs to create one digital output 
+**Output buffer:** Amplifies the signal sent by the decision circuit and ties the differential outputs to create one output 
 <img width="846" height="716" alt="image" src="https://github.com/user-attachments/assets/2ea2dfa9-bed9-4586-ad67-2a2829a60f4e" />
 
 # Testing 
