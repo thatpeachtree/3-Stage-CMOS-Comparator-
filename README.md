@@ -1,6 +1,6 @@
 # 3-Stage-CMOS-Comparator
 Contains the design and simulation of a 3-stage CMOS comparator using Xschem, an open-source analog schematic editor, and Sky130 PDK. 
-<img width="1255" height="887" alt="image" src="https://github.com/user-attachments/assets/873fe272-7c96-48fe-98a5-730b1359af65" />
+<img width="1204" height="862" alt="image" src="https://github.com/user-attachments/assets/23f7cbe0-f211-496e-a1a7-f8cb13b5db83" />
 
 # Architecture
 **Pre-amplification:** Amplifies input signal; isolates input from decision circuit noise
@@ -30,6 +30,8 @@ Note: Zoom in to graph to see 0.05V offset (this is the low state of the compara
 <img width="1566" height="664" alt="image" src="https://github.com/user-attachments/assets/c9ccb3c8-f45b-4289-8522-a30716c0924c" />
 
 # Instructions for Software/File Download
-Please see these links for comprehensive instructions on downloading WSL (if using Windows) and Xschem/Sky130 PDK
-1. [Downloading WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
-2. [Downloading Xschem + Sky130 PDK](https://youtu.be/G5SMVoQsOhs?si=JrYpuieQXa9SCJyo)
+See these links for comprehensive instructions on downloading WSL (if using Windows) and Xschem/Sky130 PDK
+1. [Download WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+2. [Download Xschem + Sky130 PDK](https://youtu.be/G5SMVoQsOhs?si=JrYpuieQXa9SCJyo)
+3. Download files in git repository
+4. Open tb_comp2_copy and run, then Ctrl + right click to load waveforms
