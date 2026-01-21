@@ -27,7 +27,7 @@ Note: Zoom in to graph to see 0.05V offset (this is the low state of the compara
 |       vminus     |      0.9V                     |
 
 ### Testbench
-<img width="1591" height="641" alt="image" src="https://github.com/user-attachments/assets/c02b339b-4d0a-467d-981b-9c761676ac88" />
+<img width="1566" height="664" alt="image" src="https://github.com/user-attachments/assets/c9ccb3c8-f45b-4289-8522-a30716c0924c" />
 
 # Instructions for Software/File Download
 Please see these links for comprehensive instructions on downloading WSL (if using Windows) and Xschem/Sky130 PDK
