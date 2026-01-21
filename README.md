@@ -34,4 +34,5 @@ See these links for comprehensive instructions on downloading WSL (if using Wind
 1. [Download WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 2. [Download Xschem + Sky130 PDK](https://youtu.be/G5SMVoQsOhs?si=JrYpuieQXa9SCJyo)
 3. Download files in git repository
-4. Open tb_comp2_copy and run, then Ctrl + right click to load waveforms
+4. Open tb_comp2_copy and generate netlist and run
+5. Ctrl + left click on arrow icon to load waveforms
